@@ -11,9 +11,9 @@ Self-contained interactive visualizations of the fitted readmission risk model's
 effects, developed with stakeholder input. View them directly in a browser:
 
 - **Overall covariate effects:**
-  <https://jaredhuling.github.io/pcori_readmissions_appendix/nomograms/Saved_Plotly_Coefficients_V4.html>
+  <https://jaredhuling.github.io/pcori_readmissions_appendix/nomograms/Saved_Plotly_Coefficients_final_model.html>
 - **Subgroup-specific (MDC/DRG) covariate effects:**
-  <https://jaredhuling.github.io/pcori_readmissions_appendix/nomograms/Saved_Plotly_SubgroupEffect_V4.html>
+  <https://jaredhuling.github.io/pcori_readmissions_appendix/nomograms/Saved_Plotly_SubgroupEffect_final_model.html>
 
 The HTML files in `nomograms/` are fully self-contained (no external resources) and can also be
 downloaded and opened locally in any browser.
@@ -22,9 +22,9 @@ downloaded and opened locally in any browser.
 
 Archival source snapshots of the two open-source R packages exactly as described in the report:
 
-- `software/hierNest_1.0.0.tar.gz` — Aim 1: hierarchical nested re-parameterization and
+- `software/hierNest_1.0.4.tar.gz` — Aim 1: hierarchical nested re-parameterization and
   structured regularization for subgroup-heterogeneous risk models.
-- `software/swjm_0.1.0.tar.gz` — Aim 2: stagewise variable selection for joint semi-competing
+- `software/swjm_0.1.3.tar.gz` — Aim 2: stagewise variable selection for joint semi-competing
   risks models of recurrent readmission and death.
 
 Installation instructions are in [INSTALL.md](INSTALL.md). The packages are actively maintained

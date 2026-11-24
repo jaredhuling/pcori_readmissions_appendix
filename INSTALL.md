@@ -6,13 +6,13 @@ session:
 The Aim 1 methods are in the **hierNest** package:
 
 ```r
-install.packages("path/to/hierNest_1.0.0.tar.gz", repos = NULL, type = "source")
+install.packages("path/to/hierNest_1.0.4.tar.gz", repos = NULL, type = "source")
 ```
 
 The Aim 2 methods are in the **swjm** (stagewise joint models) package:
 
 ```r
-install.packages("path/to/swjm_0.1.0.tar.gz", repos = NULL, type = "source")
+install.packages("path/to/swjm_0.1.3.tar.gz", repos = NULL, type = "source")
 ```
 
 Both packages are also maintained as open-source software with documentation and worked
